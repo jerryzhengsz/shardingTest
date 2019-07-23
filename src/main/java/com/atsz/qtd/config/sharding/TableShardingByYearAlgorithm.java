@@ -1,4 +1,4 @@
-package com.atsz.qtd.sharding;
+package com.atsz.qtd.config.sharding;
 
 import io.shardingsphere.api.algorithm.sharding.PreciseShardingValue;
 import io.shardingsphere.api.algorithm.sharding.standard.PreciseShardingAlgorithm;
@@ -9,7 +9,7 @@ import java.util.Collection;
 
 /**
  * @author : Jerry_Zheng
- * @pakcageName :com.atsz.qtd.sharding
+ * @pakcageName :com.atsz.qtd.config.sharding
  * @project : shardingTest
  * @date : 2019/7/22 16:05
  * @description : TODO
